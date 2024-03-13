@@ -12,7 +12,11 @@ Admin Panel: Admin users have exclusive access to modify and manage all aspects 
 
 
 Technologies Used
-Frontend: HTML, CSS, JavaScript, Jquery
+
+Frontend: HTML, CSS, JavaScript, JQuery
+
 Backend: PHP
+
 Database: Mysql
+
 Admin Panel: Custom dashboard for seamless administration.
